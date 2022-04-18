@@ -1,0 +1,2 @@
+# driversed-autoclicker
+Yes
